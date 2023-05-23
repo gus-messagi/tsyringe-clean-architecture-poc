@@ -1,0 +1,1 @@
+# tsyringe-clean-architecture-poc
